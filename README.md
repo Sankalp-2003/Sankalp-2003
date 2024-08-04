@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sankalp</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
- ![git-gif](https://github.com/user-attachments/assets/30ee3488-a416-4f87-89d1-86380131e33d)
+
 
 
 <p align="left"> <img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" /> </p>
