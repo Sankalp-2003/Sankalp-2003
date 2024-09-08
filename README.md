@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at [https://sankalp-portfoliowebsite.netlify.app/](https://sankalp-portfoliowebsite.netlify.app/)
+- 👨‍💻 My portfolio website [[https://sankalp-portfoliowebsite.netlify.app/](https://websiteofsankalp.netlify.app/)]
 
 - 📫 How to reach me **sankalpkundapur2003@gmail.com**
 
