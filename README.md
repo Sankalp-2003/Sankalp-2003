@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sankalp-2003" alt="sankalp-2003" /></a> </p>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently working with **Angular**
 
 - 👨‍💻 My portfolio website [[https://sankalp-portfoliowebsite.netlify.app/](https://websiteofsankalp.netlify.app/)]
 
