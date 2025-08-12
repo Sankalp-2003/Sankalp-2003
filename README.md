@@ -1,34 +1,43 @@
-<h1 align="center">Hi 👋, I'm Sankalp</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Hi, I'm Sankalpa 👋  
 
+🚀 **Frontend Developer | MERN Stack Developer**  
+Building high-performance, scalable, and user-friendly web applications. Passionate about clean UI, smooth UX, and writing maintainable code.  
 
+---
 
+## 🛠️ Tech Stack
 
-<p align="left"> <img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" /> </p>
+**Frontend:**  
+React.js • Next.js • Redux Toolkit / Thunk • Context API • Tailwind CSS • Framer Motion  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sankalp-2003" alt="sankalp-2003" /></a> </p>
+**Backend:**  
+Node.js • Express.js • MongoDB • Mongoose • REST APIs • JWT Authentication  
 
-- 🌱 I’m currently working with **Angular**
+**Other Tools:**  
+Git • GitHub • Postman • Cloudinary • ImageKit • Vercel • Netlify  
 
-- 👨‍💻 My portfolio website [[https://sankalp-portfoliowebsite.netlify.app/](https://websiteofsankalp.netlify.app/)]
+---
 
-- 📫 How to reach me **sankalpkundapur2003@gmail.com**
+## 📌 Featured Projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sankalp-kundapur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sankalp-kundapur" height="30" width="40" /></a>
-<a href="https://instagram.com/not_sankalp.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="not_sankalp.1" height="30" width="40" /></a>
-</p>
+- **[Portfolio with Admin Dashboard](https://websiteofsankalp.netlify.app/)** – MERN-based portfolio site with full CMS capabilities (Add/Edit projects, skills, profile pic, animations).  
+- **[Rabbit E-commerce](https://rabbit-ko9q.vercel.app/)** – MERN stack e-commerce app with cart, wishlist, admin dashboard, and Cloudinary integration.  
+- **[CarRental](https://car-rental-peach-ten.vercel.app/)** – Full-stack car booking platform with user & admin dashboards, JWT auth, and ImageKit integration.  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-</a> <a href="https://angular.io/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="angular" width="40" height="40"/>
-</a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-</a>
-</p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sankalp-2003&show_icons=true&locale=en&layout=compact" alt="sankalp-2003" /></p>
+## 📊 GitHub Stats
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Sankalp-2003&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sankalp-2003&layout=compact&theme=tokyonight)  
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sankalpkundapur/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://websiteofsankalp.netlify.app/)  
+
+---
+
+💡 _"Code is like humor. When you have to explain it, it’s bad."_  
